@@ -50,15 +50,7 @@ To get started with ProjectDoc, follow these steps:
 
 Once the application is running, you can access it via `http://localhost:3000` in your web browser. From there, you can explore the various features and start managing your patient and doctor information.
 
-### Adding Documentation
 
-1. Navigate to the relevant section where you want to add or edit documentation.
-2. Use the markdown editor to write your content.
-3. Save your changes to update the documentation.
-
-### Searching Documentation
-
-Use the search bar at the top of the page to quickly find specific topics or keywords within the documentation.
 
 ## Contributing
 
