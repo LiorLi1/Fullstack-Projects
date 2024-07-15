@@ -19,7 +19,8 @@ from django.urls import reverse
 db_connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    database=" cofeeshop"
+    password="123456",
+    database="coffeeshop"
 )
 cursor = db_connection.cursor()
 print(db_connection)
