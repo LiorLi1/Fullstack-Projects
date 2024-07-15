@@ -1,5 +1,5 @@
 # Kela Clinic
-
+![chrome_60B1E1zrkr](https://github.com/user-attachments/assets/1f65fd79-e487-42ea-be4a-7a82b894e5e2)
 A pharmacy/clinic management system which features face recognition for medicine acquisition.
 
 Utilises Django MVC Framework and OpenCV library for face recognition.
