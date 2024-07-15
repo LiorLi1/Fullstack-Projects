@@ -1,6 +1,9 @@
 # CoffeeShop Web Application
 
-![CoffeeShop Main Page](chrome_B2DvHh4xGZ.png)
+
+<img width="960" alt="chrome_B2DvHh4xGZ" src="https://github.com/user-attachments/assets/21add7c8-7d94-4bc0-81e3-7f8dae64b4b3">
+
+
 
 Welcome to the CoffeeShop web application! This project is a full-stack web application designed to manage and streamline operations for a coffee shop. The application includes features for managing products, orders, customers, and staff.
 
