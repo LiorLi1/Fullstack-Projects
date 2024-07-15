@@ -1,5 +1,10 @@
 ![Image of LogoStatiCov](https://i.ibb.co/1XnKmkp/logostaticov.png)
 # StatiCov
+
+
+https://github.com/user-attachments/assets/4a86050d-92f2-46b7-8ef5-b550c88546f3
+
+
 **Introduction:**<br/>
 A system of assistance to citizens and employees of the State of Israel in providing transparency to the<br/>
 areas of morbidity and infection with the corona virus throughout the country, with the help of statistics that the system will consider,<br/>
